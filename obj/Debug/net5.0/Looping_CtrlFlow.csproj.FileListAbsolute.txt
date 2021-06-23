@@ -1,0 +1,16 @@
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\bin\Debug\net5.0\Looping_CtrlFlow.exe
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\bin\Debug\net5.0\Looping_CtrlFlow.deps.json
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\bin\Debug\net5.0\Looping_CtrlFlow.runtimeconfig.json
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\bin\Debug\net5.0\Looping_CtrlFlow.runtimeconfig.dev.json
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\bin\Debug\net5.0\Looping_CtrlFlow.dll
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\bin\Debug\net5.0\ref\Looping_CtrlFlow.dll
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\bin\Debug\net5.0\Looping_CtrlFlow.pdb
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.csproj.AssemblyReference.cache
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.AssemblyInfoInputs.cache
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.AssemblyInfo.cs
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.csproj.CoreCompileInputs.cache
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.dll
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\ref\Looping_CtrlFlow.dll
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.pdb
+C:\Code Academy\nelnet-projects\Looping_CtrlFlow\obj\Debug\net5.0\Looping_CtrlFlow.genruntimeconfig.cache
